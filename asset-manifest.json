@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b618997.css",
+    "main.js": "/static/js/main.51cc5247.js",
+    "static/media/YouTube.png": "/static/media/YouTube.f55a87a7bc96b33b139e.png",
+    "static/media/GroupOfBoys.png": "/static/media/GroupOfBoys.5014879d0bd3837822df.png",
+    "static/media/manGetsAward.png": "/static/media/manGetsAward.ee2fe0774a9243f0b8a3.png",
+    "static/media/GirlWithLaptop.png": "/static/media/GirlWithLaptop.2b35199d878230917f29.png",
+    "static/media/logo.svg": "/static/media/logo.7e8c33e6c267c599cf60eae73f6de5ad.svg",
+    "static/media/Vector.svg": "/static/media/Vector.4dbfdb141d99b1348dbd88e9919d868b.svg",
+    "index.html": "/index.html",
+    "main.6b618997.css.map": "/static/css/main.6b618997.css.map",
+    "main.51cc5247.js.map": "/static/js/main.51cc5247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b618997.css",
+    "static/js/main.51cc5247.js"
+  ]
+}
